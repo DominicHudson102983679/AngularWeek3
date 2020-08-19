@@ -17,7 +17,7 @@ export class AppComponent {
   ];
 
 
-showContacts: boolean = true;
+// showContacts: boolean = true;
 
 onToggleContacts() {
   // if(this.showContacts == true){
